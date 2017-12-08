@@ -1,0 +1,2 @@
+# sample
+Practice Github repository
