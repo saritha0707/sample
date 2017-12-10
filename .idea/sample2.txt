@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Sample info
-=======
 Info added at remote
->>>>>>> refs/remotes/origin/master
+Edited at remote
